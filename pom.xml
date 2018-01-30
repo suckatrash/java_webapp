@@ -4,7 +4,7 @@
   <groupId>com.puppet.sample</groupId>
   <artifactId>puppet-webapp</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1</version>
   <name>puppet-webapp</name>
   <url>http://maven.apache.org</url>
 
